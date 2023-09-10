@@ -1,0 +1,1 @@
+worker: python lesson_webinar25.py
